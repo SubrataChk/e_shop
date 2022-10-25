@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598002006297",
+    "project_id": "e-shop-28a92",
+    "storage_bucket": "e-shop-28a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598002006297:android:dbffebd62f2cab09f16d88",
+        "android_client_info": {
+          "package_name": "com.subratadev.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598002006297-f9qufc16lhjjfbfpg569a9a9r7mfv5bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subratadev.eshop",
+            "certificate_hash": "b66f20227837951ae1bb7b1cb5bd11b5f238f4d0"
+          }
+        },
+        {
+          "client_id": "598002006297-3ma4iujq2odoo6pq62sgq2sqrel1epo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqMyc6fLcw1DyJEDFCzpsJlIiJE1XiU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598002006297-3ma4iujq2odoo6pq62sgq2sqrel1epo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
